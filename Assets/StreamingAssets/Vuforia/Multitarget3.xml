@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="triangles.Front" size="27.8 55.6"/>
+        <ImageTarget name="triangles.Top" size="27.8 55.6"/>
+        <ImageTarget name="triangles.Bottom" size="27.8 55.6"/>
+        <MultiTarget name="triangles">
+            <Part name="triangles.Front" translation="0 0 0" rotation="AD: 1 0 0 0"/>
+            <Part name="triangles.Top" translation="-31.8 0 0" rotation="AD: 1 0 0 0"/>
+            <Part name="triangles.Bottom" translation="31.8 0 0" rotation="AD: 1 0 0 0"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
